@@ -19,15 +19,15 @@
 
 ## 📌 Featured Project  
 
-### 🏏 **IPL Teams Performance Dashboard**  
-🔗 [GitHub Repository](https://github.com/HemanthDuraisamy810/ipl-teams-analysis)  
+### 🚀 **Blinkit Order Analysis**  
+🔗 [GitHub Repository](https://github.com/HemanthDuraisamy810/blinkit-order-analysis)  
 📊 **Description:**  
-- Studied team performance data from IPL seasons.  
-- Built **interactive Power BI visuals** for match stats, player rankings, and win predictions.  
-- Used **Excel, Power BI, and Python** for data processing.  
+- Analyzed Blinkit’s order data to find trends in customer purchasing behavior.  
+- Created a **Power BI dashboard** for better insights.  
+- Used **SQL and Python** for data extraction and processing.  
 
 🖼 **Project Screenshot:**  
-![IPL Power BI Dashboard](https://via.placeholder.com/600x300.png?text=IPL+Teams+Dashboard)  
+![Blinkit Power BI Dashboard](https://via.placeholder.com/600x300.png?text=Blinkit+Dashboard)  
 
 ---
 
