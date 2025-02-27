@@ -105,6 +105,6 @@ The dataset consists of multiple attributes related to BlinkIT grocery sales, in
 ## 👨‍💻 **About the Developer**  
 🔹 **Hemanth Duraisamy** | Data Analyst 📊  
 📧 Email: hemanthduraisamy@gmail.com  
-💼 LinkedIn: [Your Profile Here]([https://www.linkedin.com/in/hemanth-d-551016249/]) 
+💼 LinkedIn: [Your Profile Here](https://www.linkedin.com/in/hemanth-d-551016249/)  
 
 🌟 **Feedback & contributions are always welcome!** 🚀💡  
