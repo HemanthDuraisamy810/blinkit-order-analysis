@@ -94,7 +94,7 @@ The dataset consists of multiple attributes related to BlinkIT grocery sales, in
 ## Report Snapshots
 
 **Power BI Service Dashboard:**  
-[Insert Screenshot Here]
+![Image](https://github.com/user-attachments/assets/b0429d89-381f-40dc-bc08-54ae3371cf7c)
 
 
 ## 📊 Dashboard Link  
@@ -102,6 +102,9 @@ The dataset consists of multiple attributes related to BlinkIT grocery sales, in
 
 ---
 
-👨‍💻 **Developed by:** Hemanth Duraisamy  
-📧 Contact: hemanthduraisamy@gmail.com  
-🚀 **Feel free to contribute or provide feedback!**  
+## 👨‍💻 **About the Developer**  
+🔹 **Hemanth Duraisamy** | Data Analyst 📊  
+📧 Email: hemanthduraisamy@gmail.com  
+💼 LinkedIn: [Your Profile Here](https://www.linkedin.com/in/yourprofile)  
+
+🌟 **Feedback & contributions are always welcome!** 🚀💡  
